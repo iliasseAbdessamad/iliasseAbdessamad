@@ -1,5 +1,4 @@
-👋 Hi, I’m Iliasse Abdessamad
-👀 I’m interested in Software Developpement, AI, BigData and Cloud Computing 
+Hello Everyone, i'm is Iliasse Abdessamad and welcome to my reposetories :)
 
 <!---
 iliasseAbdessamad/iliasseAbdessamad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
