@@ -1,4 +1,4 @@
 Hello Everyone, 
-i'm is Iliasse Abdessamad 
+i'm Iliasse Abdessamad, i'm a developper  
 and welcome to my reposetories 
 :)
